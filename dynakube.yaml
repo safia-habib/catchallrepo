@@ -143,7 +143,7 @@ spec:
       # env: []
       env:
         - name: ONEAGENT_ENABLE_VOLUME_STORAGE
-          value: "false"
+          value: "true"
 
       # Optional: Adds custom arguments to the OneAgent installer
       # For a list of available options, see https://www.dynatrace.com/support/help/shortlink/linux-custom-installation
